@@ -1,0 +1,158 @@
+2022-03-06T02:24:22+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:24:48+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\plugin-install.php(16): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:24:49+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:24:50+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:24:54+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:24:59+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:25:00+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:25:14+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:25:14+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\edit.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:25:16+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T02:25:18+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(307): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\vatlieuthanhhoa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\vatlieuthanhhoa\wp-settings.php(587): do_action('init')
+#5 C:\xampp\htdocs\vatlieuthanhhoa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\vatlieuthanhhoa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\vatlieuthanhhoa\wp-admin\themes.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2022-03-06T03:52:07+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\themes\storefront-child\functions.php on line 42
+
+2022-03-06T03:52:46+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\themes\storefront-child\functions.php on line 42
+
+2022-03-06T03:52:50+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\themes\storefront-child\functions.php on line 42
+
+2022-03-06T03:52:57+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\vatlieuthanhhoa\wp-content\themes\storefront-child\functions.php on line 42
+
